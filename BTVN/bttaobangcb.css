@@ -1,0 +1,77 @@
+#tkb {
+    font-family: Open sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+
+.thongtin {
+    font-family: Open sans-serif;
+    font-size: 16px;
+    color: blue;
+}
+
+#lop {
+    left: 40px;
+    top: 50px;
+    position: absolute;
+}
+
+#gv {
+    left: 40px;
+    top: 70px;
+    position: absolute;
+}
+
+#phonghoc {
+    left: 40px;
+    top: 90px;
+    position: absolute;
+}
+
+#time {
+    right: 40px;
+    top: 50px;
+    position: absolute;
+}
+
+#ngayhoc {
+    right: 40px;
+    top: 70px;
+    position: absolute;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    top: 120px;
+    left: 200px;
+    position: absolute;
+}
+
+th,
+td {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.thu {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+    background-color: yellow;
+}
+
+.hang2 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+    background-color: orange;
+}
+
+td {
+    background-color: #a9a9a9;
+}
